@@ -2,9 +2,6 @@
 <h3 align="center">Student in SoftUni (C# Web Developer)</h3>
 <br>
 
-
-- 🌱 I’m currently learning **C# DB - MS SQL, Entity Framework Core**
-
 - 📫 How to reach me: **jivkovaviktoria@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

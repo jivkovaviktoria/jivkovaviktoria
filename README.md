@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktoriya</h1>
 <h3 align="center">Student in SoftUni (C# Web Developer)</h3>
-<br>
-
-- 📫 How to reach me: **jivkovaviktoria@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viktoriya-jivkova-373874225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktoria-jivkova-373874225" height="30" width="40" /></a>

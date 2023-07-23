@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Viktoriya</h1>
-<h3 align="center">Student in SoftUni (C# Web Developer)</h3>
+
+  <h3 style="display: flex; align-items: center;"> <img  src="https://dfbulgaria.org/wp-content/uploads/2021/12/TechnoLogica-400x400-1.png" alt="Technologica Logo" style="width: 60px; height: 60px; margin-right: 10px; vertical-align: middle;"> .NET Developer Intern at Technologica </h3>
+  
+<h3 style="display: flex; align-items: center;"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png"  style="width: 50px; height: 50px; margin-right: 10px; vertical-align: middle;"/> Student in SoftUni (C# Web Developer)</h3>
+
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viktoriya-jivkova-373874225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktoria-jivkova-373874225" height="30" width="40" /></a>

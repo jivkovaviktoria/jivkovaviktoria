@@ -55,15 +55,15 @@
 
 <p align="center">
   <strong>📄 Know about my experiences:</strong>
-  <p align="center">
-  <strong>Internship at Technologica</strong> - 07/2023 to 09/2023<br>
-  Completed a 3-month internship, where I gained hands-on experience in software development processes and team collaboration.
-</p>
 <p align="center">
   <strong>Junior Software Developer at Technologica</strong> - 10/2023 to Present<br>
   Currently working as a Junior Software Developer, continuing to develop my skills and contribute to various projects.
 </p>
 
+<p align="center">
+  <strong>Internship at Technologica</strong> - 07/2023 to 09/2023<br>
+  Completed a 3-month internship, where I gained hands-on experience in software development processes and team collaboration.
+</p>
 </p>
 
 <br/>

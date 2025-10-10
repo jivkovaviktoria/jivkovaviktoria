@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Viktoriya</h1>
-<p align="center">Junior Software Developer at Technologica | Student in SoftUni (C# Web Developer)</p>
+<p align="center">Junior Software Developer at Technologica</p>
 
 <p align="center">
   <img src="https://dfbulgaria.org/wp-content/uploads/2021/12/TechnoLogica-400x400-1.png" alt="Technologica Logo" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" alt="SoftUni Logo" width="50" height="50"/>
 </p>
-
-<br/>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/viktoriya-jivkova-373874225" target="blank">
@@ -44,9 +40,6 @@
   <img src="https://i.pinimg.com/originals/92/60/dd/9260dd459aa4566cfa25e86a3f10ea1b.png" alt="python" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <strong>🌱 I’m currently learning Python and JS</strong>
-</p>
 <p align="center">
   <strong>📫 How to reach me: jivkovaviktoria@gmail.com</strong>
 </p>

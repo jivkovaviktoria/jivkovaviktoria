@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktoriya</h1>
-<p align="center">Junior Software Developer at Technologica</p>
+<p align="center">Full-Stack Software Developer at Technologica</p>
 
 <p align="center">
   <img src="https://dfbulgaria.org/wp-content/uploads/2021/12/TechnoLogica-400x400-1.png" alt="Technologica Logo" width="60" height="60"/>
@@ -48,8 +48,12 @@
 
 <p align="center">
   <strong>📄 Know about my experiences:</strong>
+  <p align="center">
+  <strong>Full-Stack Software Developer at Technologica</strong> - 04/2026 to Present<br>
+</p>
+
 <p align="center">
-  <strong>Junior Software Developer at Technologica</strong> - 10/2023 to Present<br>
+  <strong>Junior Full-Stack Software Developer at Technologica</strong> - 10/2023 to 04/2026<br>
   Currently working as a Junior Software Developer, continuing to develop my skills and contribute to various projects.
 </p>
 
